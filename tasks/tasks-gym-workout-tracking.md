@@ -70,15 +70,15 @@ Update the file after completing each sub-task, not just after completing an ent
   - [x] 2.5 Implement exercise search/suggestion query optimized for workout logging flow.
   - [x] 2.6 Add repository tests for create/read/update/delete and relational integrity.
 
-- [ ] 3.0 Build workout logging flow with saved-exercise suggestions and inline exercise creation
-  - [ ] 3.1 Build Workout Session screen UI with add-exercise, add-set, edit-set, and remove-set actions.
-  - [ ] 3.2 Add validation rules: weight must be positive number; reps must be positive integer.
-  - [ ] 3.3 Implement exercise suggestion list while typing/selecting exercise in a session.
-  - [ ] 3.4 Implement inline “create new exercise” flow from workout session when no match exists.
-  - [ ] 3.5 Build Exercise Editor screen with required exercise name and optional photo/tags.
-  - [ ] 3.6 Integrate camera/gallery picker and persist selected photo URI for each exercise.
-  - [ ] 3.7 Persist completed workout sessions and ensure session edits are saved locally.
-  - [ ] 3.8 Add component/service tests for session logging, suggestion behavior, inline creation, and validation errors.
+- [x] 3.0 Build workout logging flow with saved-exercise suggestions and inline exercise creation
+  - [x] 3.1 Build Workout Session screen UI with add-exercise, add-set, edit-set, and remove-set actions.
+  - [x] 3.2 Add validation rules: weight must be positive number; reps must be positive integer.
+  - [x] 3.3 Implement exercise suggestion list while typing/selecting exercise in a session.
+  - [x] 3.4 Implement inline “create new exercise” flow from workout session when no match exists.
+  - [x] 3.5 Build Exercise Editor screen with required exercise name and optional photo/tags.
+  - [x] 3.6 Integrate camera/gallery picker and persist selected photo URI for each exercise.
+  - [x] 3.7 Persist completed workout sessions and ensure session edits are saved locally.
+  - [x] 3.8 Add component/service tests for session logging, suggestion behavior, inline creation, and validation errors.
 
 - [ ] 4.0 Build workout history and per-exercise weight trend statistics screens
   - [ ] 4.1 Build Workout History screen sorted by most recent session first.
